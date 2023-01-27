@@ -10,11 +10,11 @@ This project is done using [React](https://reactjs.org/) with [TypeScript](https
 - Main screen.
 - Menu Bar - Preferences & Time.
 - Applications - Camera, Browser, News, Folders/Documents.
-- Power off button.
+- Logout button.
 
 ## Live Version
 
-TO DO: Deploy to Netlify
+https://stellular-meringue-e2a7b9.netlify.app/
 
 ## Getting Started
 
@@ -57,6 +57,10 @@ Starts the development mode to the browser at `http://localhost:8000`
 
 After creating the production build you can preview the build, by running:
 - `npm run preview`
+
+##### User Password
+
+- `admin1234`
 
 ##### Generate Icons
 
