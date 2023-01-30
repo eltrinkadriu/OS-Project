@@ -7,7 +7,7 @@ interface Props {
 export const NewsCard = ({ data }: Props) => {
   return (
     <div className="mt-10">
-      {data.slice(0, 10).map((news) => (
+      {data.map((news) => (
         <div
           className="mb-5 flex flex-col bg-zinc-300 border border-white rounded-md p-4 shadow-md"
           key={news.id}
