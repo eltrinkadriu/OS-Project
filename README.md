@@ -14,7 +14,7 @@ This project is done using [React](https://reactjs.org/) with [TypeScript](https
 
 ## Live Version
 
-https://stellular-meringue-e2a7b9.netlify.app/
+https://operating-systems-project.netlify.app/
 
 ## Getting Started
 
