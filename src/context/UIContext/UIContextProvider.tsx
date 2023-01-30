@@ -10,6 +10,8 @@ export const UIContextProvider = ({ children }: Props) => {
     () => localStorage.getItem("theme") == "dark"
   );
 
+  
+
   const toggleDarkMode = () => {
     setDarkMode((prev) => {
       localStorage.setItem("theme", prev ? "light" : "dark");
